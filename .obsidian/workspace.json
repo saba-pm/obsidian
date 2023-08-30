@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "b7735bb699187799",
+    "type": "split",
+    "children": [
+      {
+        "id": "a410173448b37e93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5d765e7bdac4a95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Trainings/Terraform/Essentials/3.Terraform-Modules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15e254dc3c32129a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "858fb25e550a02a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0aa9620bdc200bea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e16e1605138c406c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fe6d40601d9ffb76",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "079c102951ff2974",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "551436c921cffc0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a00880bdeb588142",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b65b1b8aa571f2c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a6fb19f37221c5d2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a780dc2d39cdf313",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bfac5d419946314e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "15e254dc3c32129a",
+  "lastOpenFiles": [
+    "Notes/Trainings/Terraform/Essentials/3.Terraform-Modules.md",
+    "Untitled.md",
+    "test",
+    "Notes/Trainings/Terraform/Essentials/9.Terraform-Expressions-Functions.md",
+    "Notes/Trainings/Terraform/Essentials/10.Terraform-RemoteState.md",
+    "Notes/Trainings/Terraform/Essentials/8.Terraform-Loop-with-for.md",
+    "Notes/Trainings/Terraform/Essentials/7.Terraform-Loop-with-count.md",
+    "Notes/Trainings/Terraform/Essentials/6.Terraform-outputs.md",
+    "Notes/Trainings/Terraform/Essentials/5.Terraform-Seprate-ENV.md",
+    "Notes/Trainings/Terraform/Essentials/4.Terraform-Variables.md",
+    "Notes/Trainings/Terraform/Essentials/2.Terraform-Resources.md",
+    "Notes/Trainings/Terraform/Essentials/1.Terraform-Essentials.md",
+    "Notes/Trainings/Terraform/Essentials",
+    "Notes/Trainings/Terraform",
+    "Notes/Trainings",
+    "Notes",
+    "Notes.zip"
+  ]
+}

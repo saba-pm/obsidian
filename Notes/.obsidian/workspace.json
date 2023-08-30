@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "c7bc3ed348e78a48",
+    "type": "split",
+    "children": [
+      {
+        "id": "80896cde61d37914",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6135450656c43e10",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10d253d909fc7386",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc6cbf205f379d68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14263c33d32ecd0b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7bacf1eed916349c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7e4902c4356ef929",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "966998ae34cac899",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0e15a83cd6cdcf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aee85ef1a7fcbf3c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Trainings/Terraform/Essentials/1.Terraform-Essentials.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b4742342a12c0cf4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Trainings/Terraform/Essentials/1.Terraform-Essentials.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7156e3a843f9e7fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e1d6644e0913ca22",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Trainings/Terraform/Essentials/1.Terraform-Essentials.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-projects:Open projects": false
+    }
+  },
+  "active": "14263c33d32ecd0b",
+  "lastOpenFiles": [
+    "Trainings/Terraform/Essentials/1.Terraform-Essentials.md",
+    "Trainings/Terraform/Essentials/2.Terraform-Resources.md",
+    "Trainings/Terraform/Essentials/3.Terraform-Modules.md",
+    "Trainings/Terraform/Essentials/4.Terraform-Variables.md",
+    "Trainings/Terraform/Essentials/5.Terraform-Seprate-ENV.md",
+    "Trainings/Terraform/Essentials/6.Terraform-outputs.md",
+    "Trainings/Terraform/Essentials/7.Terraform-Loop-with-count.md",
+    "Trainings/Terraform/Essentials/8.Terraform-Loop-with-for.md",
+    "Trainings/Terraform/Essentials/9.Terraform-Expressions-Functions.md",
+    "Trainings/Terraform/Essentials/10.Terraform-RemoteState.md",
+    "Trainings/Terraform/Essentials",
+    "Trainings/Terraform/AWS",
+    "Trainings/Terraform",
+    "Untitled",
+    "Trainings"
+  ]
+}
