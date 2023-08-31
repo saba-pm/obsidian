@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main file.md",
+                "file": "Notes/Trainings/Terraform/Essentials/4.Terraform-Variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main file.md",
+                "file": "Notes/Trainings/Terraform/Essentials/4.Terraform-Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "main file.md",
+                "file": "Notes/Trainings/Terraform/Essentials/4.Terraform-Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "main file.md"
+                "file": "Notes/Trainings/Terraform/Essentials/4.Terraform-Variables.md"
               }
             }
           }
@@ -172,9 +172,10 @@
   },
   "active": "b67c6de889454493",
   "lastOpenFiles": [
+    "main file.md",
+    "Terrraform filea/main file.md",
     "Notes/Trainings/Terraform/Essentials/4.Terraform-Variables.md",
     "Notes/Trainings/Terraform/Essentials/1.Terraform-Essentials.md",
-    "main file.md",
     "Terrraform filea/create free tier ec2.md",
     "Terrraform filea",
     "Notes/Trainings/Terraform/Essentials/3.Terraform-Modules.md",
