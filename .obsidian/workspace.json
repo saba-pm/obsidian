@@ -30,9 +30,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6d0c7f245c134a77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "workflow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ad202d6397cff9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "workflow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "901931886fa5f4d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "workflow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79b0ccbb4a22bfe3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "workflow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e2f43d96b9c0f67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terrraform filea/create free tier ec2/main file.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -158,11 +218,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e16e1605138c406c",
+  "active": "1e2f43d96b9c0f67",
   "lastOpenFiles": [
+    "Notes/Notes.zip",
+    "main.tf.md",
+    "workflow.md",
+    "variables.tf.md",
+    "terraform.pem.md",
+    "output.tf.md",
+    "Terrraform filea/create free tier ec2/main file.md",
+    "Terrraform filea/create nginx ec2-website",
     "Terrraform filea/create free tier ec2",
     "Terrraform filea/create free tier ec2.md",
-    "Terrraform filea/create free tier ec2/main file.md",
     "Notes/Trainings/Terraform/Essentials/4.Terraform-Variables.md",
     "main file.md",
     "Notes/Trainings/Terraform/Essentials/1.Terraform-Essentials.md",
