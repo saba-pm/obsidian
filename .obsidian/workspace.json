@@ -32,54 +32,6 @@
             }
           },
           {
-            "id": "6d0c7f245c134a77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "workflow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ad202d6397cff9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "workflow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "901931886fa5f4d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "workflow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "79b0ccbb4a22bfe3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "workflow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1e2f43d96b9c0f67",
             "type": "leaf",
             "state": {
@@ -92,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -220,6 +172,11 @@
   },
   "active": "1e2f43d96b9c0f67",
   "lastOpenFiles": [
+    "Terrraform filea/create nginx ec2-website/workflow.md",
+    "Terrraform filea/create nginx ec2-website/variables.tf.md",
+    "Terrraform filea/create nginx ec2-website/terraform.pem.md",
+    "Terrraform filea/create nginx ec2-website/output.tf.md",
+    "Terrraform filea/create nginx ec2-website/main.tf.md",
     "Notes/Notes.zip",
     "main.tf.md",
     "workflow.md",
