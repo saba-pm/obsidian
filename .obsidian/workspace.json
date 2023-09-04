@@ -35,12 +35,8 @@
             "id": "1e2f43d96b9c0f67",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terrraform filea/create free tier ec2/main file.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -110,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terrraform filea/create free tier ec2/main file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terrraform filea/create free tier ec2/main file.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Terrraform filea/create free tier ec2/main file.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -173,17 +165,18 @@
   "active": "1e2f43d96b9c0f67",
   "lastOpenFiles": [
     "Terrraform filea/create nginx ec2-website/workflow.md",
-    "Terrraform filea/create nginx ec2-website/variables.tf.md",
     "Terrraform filea/create nginx ec2-website/terraform.pem.md",
     "Terrraform filea/create nginx ec2-website/output.tf.md",
     "Terrraform filea/create nginx ec2-website/main.tf.md",
+    "Terrraform filea/create nginx ec2-website/variables.tf.md",
+    "Notes/Trainings/Terraform/Essentials/5.Terraform-Seprate-ENV.md",
+    "Terrraform filea/create free tier ec2/main file.md",
     "Notes/Notes.zip",
     "main.tf.md",
     "workflow.md",
     "variables.tf.md",
     "terraform.pem.md",
     "output.tf.md",
-    "Terrraform filea/create free tier ec2/main file.md",
     "Terrraform filea/create nginx ec2-website",
     "Terrraform filea/create free tier ec2",
     "Terrraform filea/create free tier ec2.md",
@@ -198,7 +191,6 @@
     "Notes/Trainings/Terraform/Essentials/8.Terraform-Loop-with-for.md",
     "Notes/Trainings/Terraform/Essentials/7.Terraform-Loop-with-count.md",
     "Notes/Trainings/Terraform/Essentials/6.Terraform-outputs.md",
-    "Notes/Trainings/Terraform/Essentials/5.Terraform-Seprate-ENV.md",
     "Notes/Trainings/Terraform/Essentials/2.Terraform-Resources.md",
     "Notes/Trainings/Terraform/Essentials",
     "Notes/Trainings/Terraform",
