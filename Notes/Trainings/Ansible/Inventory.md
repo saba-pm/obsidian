@@ -1,0 +1,1 @@
+inventory has different type but  two of them is more public and we use it, is INI

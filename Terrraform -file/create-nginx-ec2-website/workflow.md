@@ -28,3 +28,5 @@
 - [ ] Run ``` terraform validate ```
 - [ ] Run ``` terraform plan ``` 
 - [ ] Run `terraform apply` 
+
+
