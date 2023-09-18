@@ -9,7 +9,6 @@ we define our grouping in [] for example:
 [web]
 	- h1
 	- h2
-
 [db]
 	- h1
 	- h2

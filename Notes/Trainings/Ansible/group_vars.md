@@ -1,0 +1,2 @@
+- We define all variable  related to groups.
+- for  each group  we have one file. 
