@@ -18,3 +18,7 @@ sudoer.yaml:
 - import_playbook: pre-install.yml
 - import_playbook: web.yml
 ```
+
+- If you want to run your play book in specific host, you can use --limit : `ansible-playbook playbooks/default.yaml --limit h1,h2`. 
+- If you want to see this playbook run in which host, you use `--list-hosts`.
+- 

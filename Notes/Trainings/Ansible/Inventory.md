@@ -28,22 +28,38 @@ web #just we say name of the group
 all #just we say name of the group
 ```
 # YAML
- like all yaml file is sensitive all space or enter for example define our hosts file base on yaml.
- hosts.yaml:
- ```
- all:
-   hosts:
-     h1:
-     h2:
- web:
-   hosts:
-     h1:
-     h2:    
+ like all yaml file is sensitive all space or enter for example define our hosts file base on yaml
+ Inventory/main.yaml:
 ```
- 
- 
- 
- 
- 
- 
+---
+all:
+  hosts:
+    lb.sudoer.net:
+    db.sudoer.net
+      ansible_host: 0.0.0.0 # if we are not set dns name we can use ip if we set dns name dosen't need ths item
+    app1.sudoer.net:
+      ansible_host: 1.2.3.4  
+    app2.sudoer.net:
+      ansible_host      
+      
+app:
+  hosts:
+    db.sudoer.net
+      ansible_host: 0.0.0.0 # if we are not set dns name we can use ip
+    app1.sudoer.net:
+      ansible_host: 0.0.0.0  
+
+db:
+  hosts:
+    db.sudoer.net
+      ansible_host: 0.0.0.0 # if we are not set dns name we can use ip 
+
+lb:
+  hosts:
+    lb.sudoer.net:
+    db.sudoer.net
+      ansible_host: 0.0.0.0 # if we are not set dns name we can use ip
+      
+```
+
  `

@@ -1,33 +1,34 @@
+We define in task directory.
+
+
+```dirtree
+- /inventory
+- /roles
+	- /default
+		- /defaults 
+			- main.yaml
+		- /tasks
+			- main.yaml #define here
+```
+
 We want to install something in our host with shell.
 ```
----
--name: Install htop
- ansible.builitin.apt:
-   name: htop
-   state: present
-
-====
-
--name: Install htop
- apt:
-   name: htop
-   state: present
-   update_cache: yes # apt update
-
--name: Install git
- apt:
-   name: git
-   state: present
+-name: Install packages with shell
+ shell: |
+    apt update; apt install htop git
 ```
 
-As you can see, if we want several packages we need define for each of them, but we can use <u>loop</u> and in one chart install all package we need.
+### Pass env to directory
+
 ```
--name: install packages
- apt:
-   name: "{{ item }}"
-   state: present
-   update_cache: yes
-loop:
-   - git
-   - htop
+- name: Create Dir
+  file: 
+    state: directory
+    path: "/tmp/dir"
+-name: echo env to file
+ shell: |
+   echo {{ VARIABLE}} > /tmp/dir
+- name: print var
+  debug:
+    msg: "{{ VARIABLE}}"
 ```

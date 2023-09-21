@@ -1,5 +1,8 @@
 {
   "spellcheckDictionary": [
-    " shel"
-  ]
+    " shel",
+    "host_vars",
+    " host_var"
+  ],
+  "alwaysUpdateLinks": true
 }
