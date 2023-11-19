@@ -4,18 +4,20 @@ do step 1 and 2 in master node.
 1. Setup ssh keys
 	1. ssh-keygen
 	2. ssh-copy-id `username@ip`
-	3. sudo apt-get install keychain
-	4. add following two lines to end of  `.bashrc` in your home directory.
+	3. add pureuser to suders file
+	4. `sudo vim /etc/sudoers ,  sudo visudo` ,  and add below line after sudo line. add this line to all servers.
 	```
-	keychain id_rsa . ~/.keychain/`uname -n` -sh
+    pureuser ALL=(ALL) NOPASSWD:ALL 
 	```
 
 2. Install kubespray 
 	1. `sudo apt-get install git`
-	2. `sudo apt-get install python-pip3`
-	3. `git clone https://github.com/kubernetes-sigs/kubespray.git`
-	4. `sudo pip3 install -r kubespray/requirements.txt` 
-	5. In default mode we don't have log file, then you need to define log directory. 
+	2. `sudo apt-get install python3-pip`
+	3. `sudo pip3 install --upgrade pip`
+	4. `pip --version`
+	5. `git clone https://github.com/kubernetes-sigs/kubespray.git`
+	6. `sudo pip3.9 install -r kubespray/requirements.txt` 
+	7. In default mode we don't have log file, then you need to define log directory. 
 	```
 	vim ansible.cfg
 	```

@@ -17,5 +17,6 @@ User -- involve some yaml files --- kubectl --> k8s API --> cluster operator -->
 when you create manifest and define kind is RabbitmqCluster you create and config your rabbit clusters.
 
 install operator :
-1. go to the github and install new version
-`https://github.com/rabbitmq/cluster-operator/releases/latest/download/cluster-operator.yml`
+1. go to the GitHub and install new version 
+` https://github.com/rabbitmq/cluster-operator/releases/latest/download/cluster-operator.yml`
+2. after deploy our 
