@@ -12,12 +12,13 @@ do step 1 and 2 in master node.
 
 2. Install kubespray 
 	1. `sudo apt-get install git`
-	2. `sudo apt-get install python3-pip`
-	3. `sudo pip3 install --upgrade pip`
-	4. `pip --version`
-	5. `git clone https://github.com/kubernetes-sigs/kubespray.git`
-	6. `sudo pip3.9 install -r kubespray/requirements.txt` 
-	7. In default mode we don't have log file, then you need to define log directory. 
+	2. `install pythone and pip for install requirements`
+	3. `you can use this linke: https://tecadmin.net/how-to-install-python-3-9-on-ubuntu-18-04/ `https://www.linuxcapable.com/how-to-install-python-3-9-on-ubuntu-linux/`
+	4. `pip need this pkg: sudo apt install python3.9-distutils -y`
+	5. `install pip : https://devicetests.com/install-pip-python3-9-ubuntu`
+	6. `git clone https://github.com/kubernetes-sigs/kubespray.git`
+	7. `sudo pip3.9 install -r kubespray/requirements.txt` 
+	8. In default mode we don't have log file, then you need to define log directory. 
 	```
 	vim ansible.cfg
 	```
