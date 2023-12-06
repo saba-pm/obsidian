@@ -5,7 +5,7 @@ do step 1 and 2 in master node.
 	1. ssh-keygen
 	2. ssh-copy-id `username@ip`
 	3. add pureuser to suders file
-	4. `sudo vim /etc/sudoers ,  sudo visudo` ,  and add below line after sudo line. add this line to all servers.
+	4. `sudo vim /etc/sudoers ,  sudo visudo`,  and add below line after sudo line. Add this line to all servers.
 	```
     pureuser ALL=(ALL) NOPASSWD:ALL 
 	```
@@ -64,12 +64,9 @@ do step 1 and 2 in master node.
 	pip3 install -r requirements.txt
     ```
 	10.  Add ansible to `/usr/local/bin`
-	11. Now you can run your pay book.
+	11. If you want to add metallb, ingress nginx controller and argocd you need to change some files in kubespray. I describe in this:  [[kubesppray-addsone]].
+	12. Now you can run your pay book.
 	```
 	ansible-playbook -i {inventory.ini path like inventory/cluster/inventory.inu} --become --become-user=root -k {cluster.yaml}
    ```
-
-
-
-
 
