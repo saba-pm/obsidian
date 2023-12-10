@@ -8,43 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "00915b2f2722f884",
+            "id": "9bf352b3dcc3b2f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Kubespray.md",
+                "file": "Notes/Trainings/Ansible/Inventory.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "59e403459f804d74",
+            "id": "de61b30a03ba5ef0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kubespray/Install-kubernetese.md",
+                "file": "Notes/kubespray/kubesppray-addsone.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9523b78bcbb6a0e3",
+            "id": "5fc4f016b5896d21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kubespray/Install-kubernetese.md",
+                "file": "Notes/kubespray/Install-kubernetese.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd8771c934dcc9af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/kubespray/NFS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kubespray/Install-kubernetese.md",
+                "file": "Notes/kubespray/NFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kubespray/Install-kubernetese.md",
+                "file": "Notes/kubespray/NFS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kubespray/Install-kubernetese.md"
+                "file": "Notes/kubespray/NFS.md"
               }
             }
           },
@@ -200,15 +212,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "9523b78bcbb6a0e3",
+  "active": "fd8771c934dcc9af",
   "lastOpenFiles": [
-    "kubespray/kubesppray-addsone.md",
+    "Notes/kubespray/MetalLB.md",
+    "Notes/kubespray/NFS.md",
     "Notes/Trainings/Ansible/Ansible_Workflow.md",
-    "kubespray/Install-kubernetese.md",
-    "Notes/Kubespray.md",
-    "kubespray",
-    "Notes/Trainings/Ansible/Inventory.md",
     "Notes/Install-Harbor.md",
+    "Notes/kubespray/Install-kubernetese.md",
+    "Notes/kubespray/kubesppray-addsone.md",
+    "Notes/Kubespray.md",
+    "Notes/kubespray",
+    "Notes/Trainings/Ansible/Inventory.md",
     "Notes/Trainings/Ansible/files.md",
     "Notes/Trainings/Ansible/shell.md",
     "Notes/Trainings/Ansible/modulus.md",
@@ -234,8 +248,6 @@
     "Terrraform -file/create-nginx-ec2-website",
     "Terrraform -file/create -free-tier-ec2",
     "Terrraform -file",
-    "Terrraform -filea/create-nginx-ec2-website/workflow.md",
-    "Terrraform -filea/create-nginx-ec2-website/variables.tf.md",
     "Terrraform -filea/create-nginx-ec2-website",
     "Terrraform -filea/create -free-tier-ec2",
     "Terrraform -filea",

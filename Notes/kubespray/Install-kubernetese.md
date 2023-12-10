@@ -1,7 +1,7 @@
 
 Deploy kubernetes with Kubespray. Here, I define steps :
 do step 1 and 2 in master node.
-1. Setup ssh keys
+1. Setup ssh keys just you need root user.
 	1. ssh-keygen
 	2. ssh-copy-id `username@ip`
 	3. add pureuser to suders file
