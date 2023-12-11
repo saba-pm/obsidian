@@ -69,4 +69,3 @@ do step 1 and 2 in master node.
 	```
 	ansible-playbook -i {inventory.ini path like inventory/cluster/inventory.inu} --become --become-user=root -k {cluster.yaml}
    ```
-

@@ -22,4 +22,10 @@ you need to do this for each server you have:
 	- `git clone https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner.git`
 	- Deploy `rbac`, `class` and `deploy`
 	- you need this image to all worker node: `registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2`
-	
+ If you have problem with create app like redis, but you will see error can't mount install nfs with helm:
+ ```
+ $ helm repo add nfs-subdir-external-provisioner https://kubernetes-sigs.github.io/nfs-subdir-external-provisioner/
+$ helm install nfs-subdir-external-provisioner nfs-subdir-external-provisioner/nfs-subdir-external-provisioner \
+    --set nfs.server=x.x.x.x \
+    --set nfs.path=/exported/path
+```
