@@ -77,3 +77,13 @@ Fact are jison, then we can choose specific object like now we need IP:
  debug:
    msg: "{{ ansible_factsdefault_ipv4.address}}"
 ```
+
+
+## Ansible command
+if you want run command to specefic and and spesefic cammand: 
+```
+ansible <host name> -a <command>   
+ansible all -a "/sbin/rebooy"
+ansible < host name > -m <moduls>
+ansible all -m ping 
+```

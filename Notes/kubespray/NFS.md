@@ -1,13 +1,14 @@
-## NFS-SERVER:
+ ## NFS-SERVER:
 
 1. Install the package on the server. 
 	- `sudo apt install nfs-kernel-server nfs-common portmap` 
 	- `sudo systemctl start nfs-server`
 	-  `sudo mkdir -p /srv/nfs/kubedat`
 	- `sudo chown -R nobody: /srv/nfs/kubedat`
+	- `vim /etc/exports` And add the below line : `/srv/nfs/kubedat *(rw,sync,no_subtree_check,no_root_squash,insecure)` 
 	- `sudo chmod -R 777 /srv/nfs/`
 	- `sudo vim /etc/exports`  Add `/srv/nfs/kubedat *(rw,sync,no_subtree_check,no_root_squash,insecure)`
-	- `sudo exportfs -rv`
+	- `sudo exportfs -rav`
 	- `showmount -e`
 
 ## On-Worker-node
@@ -25,7 +26,10 @@ you need to do this for each server you have:
  If you have problem with create app like redis, but you will see error can't mount install nfs with helm:
  ```
  $ helm repo add nfs-subdir-external-provisioner https://kubernetes-sigs.github.io/nfs-subdir-external-provisioner/
-$ helm install nfs-subdir-external-provisioner nfs-subdir-external-provisioner/nfs-subdir-external-provisioner \
+$ helm install nfs-subdir-external-provisioner nfs-subdir-external-provisioner/nfs-subdir-external-provisioner 
     --set nfs.server=x.x.x.x \
     --set nfs.path=/exported/path
 ```
+
+
+sum(rate(container_cpu_usage_seconds_total{namespace="$namespace", pod="$pod", image!="", cluster="$cluster"}[$__rate_interval])) / sum(kube_pod_container_resource_limits{namespace="$namespace", pod="$pod", resource="cpu", job=~"$job", cluster="$cluster"})

@@ -4,5 +4,6 @@
     "host_vars",
     " host_var"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }

@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6513b6787477864c",
+        "id": "ce8702839953680d",
         "type": "tabs",
         "children": [
           {
-            "id": "9bf352b3dcc3b2f3",
+            "id": "4754c61d08faf657",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Trainings/Ansible/Inventory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de61b30a03ba5ef0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/kubespray/kubesppray-addsone.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5fc4f016b5896d21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/kubespray/Install-kubernetese.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd8771c934dcc9af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/kubespray/NFS.md",
+                "file": "Notes/Trainings/Terraform/Essentials/11.Terraform Life Cycle.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/kubespray/NFS.md",
+                "file": "Notes/Trainings/Terraform/Essentials/11.Terraform Life Cycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/kubespray/NFS.md",
+                "file": "Notes/Trainings/Terraform/Essentials/11.Terraform Life Cycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/kubespray/NFS.md"
+                "file": "Notes/Trainings/Terraform/Essentials/11.Terraform Life Cycle.md"
               }
             }
           },
@@ -181,12 +144,14 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
           {
-            "id": "6474bb09caf48031",
+            "id": "18c798ef1207c934",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -212,47 +177,55 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "fd8771c934dcc9af",
+  "active": "4754c61d08faf657",
   "lastOpenFiles": [
-    "Notes/kubespray/Install-kubernetese.md",
-    "Notes/kubespray/MetalLB.md",
-    "Notes/kubespray/kubesppray-addsone.md",
-    "Notes/kubespray/NFS.md",
+    "Notes/Trainings/Terraform/Essentials/12. Terraform-Data-Source.md",
+    "Notes/Trainings/Terraform/Essentials/11.Terraform Life Cycle.md",
+    "Pasted image 20240624002337.png",
+    "Pasted image 20240624002253.png",
+    "Pasted image 20240624001500.png",
+    "Notes/Trainings/Terraform/Essentials/1.Terraform-Essentials.md",
+    "Notes/Trainings/Terraform/Essentials/10.Terraform-RemoteState.md",
+    "Notes/Trainings/Terraform/Essentials/6.Terraform-outputs.md",
+    "Notes/Trainings/Terraform/Essentials/4.Terraform-Variables.md",
+    "Notes/Trainings/Terraform/Essentials/3.Terraform-Modules.md",
+    "Notes/Trainings/Terraform/Essentials/2.Terraform-Resources.md",
     "Notes/Trainings/Ansible/Ansible_Workflow.md",
     "Notes/Install-Harbor.md",
-    "Notes/Kubespray.md",
-    "Notes/kubespray",
-    "Notes/Trainings/Ansible/Inventory.md",
-    "Notes/Trainings/Ansible/files.md",
-    "Notes/Trainings/Ansible/shell.md",
-    "Notes/Trainings/Ansible/modulus.md",
-    "Notes/Trainings/Ansible/example.md",
-    "Notes/Trainings/Ansible/templates.md",
-    "Notes/Trainings/Ansible/Playbook.md",
-    "Pasted image 20230919183501.png",
-    "Notes/Trainings/Ansible/packages.md",
-    "Untitled.canvas",
-    "2023-09-19.md",
-    "Pasted image 20230918143243.png",
     "Terrraform -file/create -free-tier-ec2/main.tf.md",
-    "Notes/Trainings/Ansible/ansible.cfg.md",
-    "Notes/Trainings/Ansible/group_vars.md",
-    "Notes/Trainings/Ansible/host_vars.md",
     "Terrraform -file/create-nginx-ec2-website/workflow.md",
-    "Notes/Kubesphere/Kubesphere.md",
-    "Notes/Kubesphere",
-    "Terrraform -file/create-nginx-ec2-website/terraform.pem.md",
-    "Terrraform -file/create-nginx-ec2-website/output.tf.md",
     "Terrraform -file/create-nginx-ec2-website/main.tf.md",
     "Terrraform -file/create-nginx-ec2-website/variables.tf.md",
-    "Terrraform -file/create-nginx-ec2-website",
-    "Terrraform -file/create -free-tier-ec2",
-    "Terrraform -file",
-    "Terrraform -filea/create-nginx-ec2-website",
-    "Terrraform -filea/create -free-tier-ec2",
-    "Terrraform -filea",
-    "Terrraform filea/create -free-tier-ec2",
-    "Terrraform filea/create-nginx-ec2-website",
+    "Terrraform -file/create-nginx-ec2-website/terraform.pem.md",
+    "Terrraform -file/create-nginx-ec2-website/output.tf.md",
+    "Pasted image 20240522005817.png",
+    "Pasted image 20240522005504.png",
+    "Pasted image 20240522005416.png",
+    "Pasted image 20240522005205.png",
+    "Pasted image 20240522005116.png",
+    "Pasted image 20240522005015.png",
+    "Pasted image 20240228124038.png",
+    "Notes/Trainings/Ansible/Playbook.md",
+    "Notes/Trainings/Ansible/loops.md",
+    "Notes/Trainings/Terraform/Essentials/7.Terraform-Loop-with-count.md",
+    "Notes/Trainings/Terraform/Essentials/5.Terraform-Seprate-ENV.md",
+    "Notes/Trainings/Ansible/Condition.md",
+    "Notes/Trainings/Ansible/templates.md",
+    "Notes/Trainings/Ansible/modulus.md",
+    "Notes/Trainings/Ansible/host_vars.md",
+    "Notes/Trainings/Ansible/group_vars.md",
+    "Notes/kafka/kafka-workflow.md",
+    "nginx",
+    "javascript",
+    "Jaeger",
+    "linux",
+    "Untitled 1",
+    "KAFKA",
+    "Notes/kafka",
+    "Notes/central-monitoring",
+    "Untitled.canvas",
+    "Notes/kubespray",
+    "Notes/Kubesphere",
     "Untitled 1.canvas"
   ]
 }

@@ -1,4 +1,9 @@
 inventory has different type but  two of them is more public and we use it, is <u>INI</u> & <u>YAML</u> .
+## Inventory parameters: 
+1. Ansible connection
+2. ansible port
+3. ansible user 
+4. asible ssh pass
 
 # INI
 we define our grouping in [] for example: 

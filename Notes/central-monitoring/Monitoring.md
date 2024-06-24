@@ -1,0 +1,1 @@
+We want to create central monitoring with docker. It will  work like this:  we install Prometheus on our cluster, and it will be connected to the monitoring server.   
