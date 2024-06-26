@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Install-Harbor.md",
+                "file": "Notes/Terraform/Essentials/10.Terraform-RemoteState.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "2d1e48e59dca8a8d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Install-Harbor.md",
+                "file": "Notes/Terraform/Essentials/10.Terraform-RemoteState.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Install-Harbor.md",
+                "file": "Notes/Terraform/Essentials/10.Terraform-RemoteState.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Install-Harbor.md"
+                "file": "Notes/Terraform/Essentials/10.Terraform-RemoteState.md"
               }
             }
           },
@@ -188,8 +177,15 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "415840eefc9eced3",
+  "active": "4754c61d08faf657",
   "lastOpenFiles": [
+    "Notes/Terraform/Essentials/8.Terraform-Loop-with-for.md",
+    "Notes/Terraform/Essentials/7.Terraform-Loop-with-count.md",
+    "Notes/Terraform/Essentials/1.Terraform-Essentials.md",
+    "Notes/Terraform/Essentials/3.Terraform-Modules.md",
+    "Notes/Terraform/Essentials/2.Terraform-Resources.md",
+    "example-files/Terrraform -file/create -free-tier-ec2/main.tf.md",
+    "example-files/Terrraform -file/aws-policy/aws-policy.md",
     "Notes/copy one branch to another branch.md",
     "Notes/copy one branch to another branch 1.md",
     "Notes/Rabbitmq/Rabbitmq-Cluster-Operator.md",
@@ -207,7 +203,6 @@
     "Notes/javascript 1/code.md",
     "Notes/javascript/code.md",
     "Notes/javascript/JavaScript.md",
-    "example-files/Terrraform -file/aws-policy/aws-policy.md",
     "Pasted image 20240228120839.png",
     "Pasted image 20240228124038.png",
     "Pasted image 20240522005015.png",
@@ -220,15 +215,9 @@
     "Notes/Terraform/Essentials/13.Terraform-count.md",
     "Notes/linux/Linux-kernel.md",
     "Notes/linux/Linux-File-System.md",
-    "Notes/linux/Create-LVM.md",
-    "Notes/linux/Create services.md",
     "Notes/nginx 1",
-    "Notes/linux 1/Linux-File-System.md",
-    "Notes/linux 1/Create-LVM.md",
-    "Notes/linux 1/Create services.md",
     "Notes/linux 1",
     "Notes/javascript 1",
-    "Notes/Terraform/Essentials/11.Terraform Life Cycle.md",
     "Notes/Jaeger 1",
     "example-files",
     "example-files/Terrraform -file/aws-policy",
