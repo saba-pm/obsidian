@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2d1e48e59dca8a8d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,7 +188,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "4754c61d08faf657",
+  "active": "415840eefc9eced3",
   "lastOpenFiles": [
     "Notes/copy one branch to another branch.md",
     "Notes/copy one branch to another branch 1.md",
@@ -205,8 +216,8 @@
     "Pasted image 20240522005416.png",
     "Pasted image 20240522005504.png",
     "Pasted image 20240522005636.png",
-    "Notes/Trainings/Terraform/Essentials/12. Terraform-Data-Source.md",
-    "Notes/Trainings/Terraform/Essentials/13.Terraform-count.md",
+    "Notes/Terraform/Essentials/12. Terraform-Data-Source.md",
+    "Notes/Terraform/Essentials/13.Terraform-count.md",
     "Notes/linux/Linux-kernel.md",
     "Notes/linux/Linux-File-System.md",
     "Notes/linux/Create-LVM.md",
@@ -217,7 +228,7 @@
     "Notes/linux 1/Create services.md",
     "Notes/linux 1",
     "Notes/javascript 1",
-    "Notes/Trainings/Terraform/Essentials/11.Terraform Life Cycle.md",
+    "Notes/Terraform/Essentials/11.Terraform Life Cycle.md",
     "Notes/Jaeger 1",
     "example-files",
     "example-files/Terrraform -file/aws-policy",
