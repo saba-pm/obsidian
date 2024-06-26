@@ -12,13 +12,13 @@
 ##### Step 2: EC2 Instance Creation 
 - [ ] Use Terraform to define your infrastructure configuration.
 - [ ] Define variable [[variables.tf]]  
-- [ ] Create a file named [[main.tf]] and specify the necessary resources, including the EC2 instance with desired specifications. 
+- [ ] Create a file named [[example-files/Terrraform -file/create-nginx-ec2-website/main.tf]] and specify the necessary resources, including the EC2 instance with desired specifications. 
 ##### Step 3: Adding Script using User Data 
 - [ ] In your Terraform configuration, add user data to execute a script on instance launch. 
 - [ ] Create a file containing your script (e.g., hello_world.sh).
-- [ ] In [[main.tf]], include user data in the EC2 resource block, referencing the script file.
+- [ ] In [[example-files/Terrraform -file/create-nginx-ec2-website/main.tf]], include user data in the EC2 resource block, referencing the script file.
 ##### Step 4: Opening Port 80
-- [ ] Modify your Terraform configuration [[main.tf]] to include a security group rule allowing inbound traffic on port 80. 
+- [ ] Modify your Terraform configuration [[example-files/Terrraform -file/create-nginx-ec2-website/main.tf]] to include a security group rule allowing inbound traffic on port 80. 
 - [ ] Specify an ingress rule for port 80 in the security group associated with your EC2 instance.
 #####  Step 5: Run Terraform
 - [ ] Found public IPV4 of your instance [[output.tf]]

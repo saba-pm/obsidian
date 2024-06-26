@@ -2,7 +2,8 @@
   "spellcheckDictionary": [
     " shel",
     "host_vars",
-    " host_var"
+    " host_var",
+    "for_each"
   ],
   "alwaysUpdateLinks": true,
   "promptDelete": false
