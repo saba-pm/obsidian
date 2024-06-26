@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ce8702839953680d",
+            "id": "4754c61d08faf657",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Trainings/Terraform/Essentials/11.Terraform Life Cycle.md",
+                "file": "javascript/JavaScriptd.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Trainings/Terraform/Essentials/11.Terraform Life Cycle.md",
+                "file": "javascript/JavaScriptd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Trainings/Terraform/Essentials/11.Terraform Life Cycle.md",
+                "file": "javascript/JavaScriptd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Trainings/Terraform/Essentials/11.Terraform Life Cycle.md"
+                "file": "javascript/JavaScriptd.md"
               }
             }
           },
@@ -143,9 +143,10 @@
             "type": "leaf",
             "state": {
               "type": "all-properties",
-              "sortOrder": "alphabetical",
-              "showSearch": false,
-              "searchQuery": ""
+              "state": {
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -178,53 +179,52 @@
   },
   "active": "4754c61d08faf657",
   "lastOpenFiles": [
-    "Notes/Trainings/Terraform/Essentials/12. Terraform-Data-Source.md",
-    "Notes/Trainings/Terraform/Essentials/11.Terraform Life Cycle.md",
+    "linux/Linux-kernel.md",
+    "Notes/javascript/JavaScript.md",
+    "nginx/Untitled.md",
+    "nginx",
+    "linux/Regex and  command.md",
+    "linux/Linux-File-System.md",
+    "linux/Create-LVM.md",
+    "linux/Create services.md",
+    "linux",
+    "javascript/code.md",
+    "javascript/JavaScriptd.md",
+    "javascript",
+    "copy one branch to another branch.md",
     "Pasted image 20240624002337.png",
     "Pasted image 20240624002253.png",
     "Pasted image 20240624001500.png",
-    "Notes/Trainings/Terraform/Essentials/1.Terraform-Essentials.md",
-    "Notes/Trainings/Terraform/Essentials/10.Terraform-RemoteState.md",
-    "Notes/Trainings/Terraform/Essentials/6.Terraform-outputs.md",
-    "Notes/Trainings/Terraform/Essentials/4.Terraform-Variables.md",
-    "Notes/Trainings/Terraform/Essentials/3.Terraform-Modules.md",
-    "Notes/Trainings/Terraform/Essentials/2.Terraform-Resources.md",
-    "Notes/Trainings/Ansible/Ansible_Workflow.md",
-    "Notes/Install-Harbor.md",
-    "Terrraform -file/create -free-tier-ec2/main.tf.md",
-    "Terrraform -file/create-nginx-ec2-website/workflow.md",
-    "Terrraform -file/create-nginx-ec2-website/main.tf.md",
-    "Terrraform -file/create-nginx-ec2-website/variables.tf.md",
-    "Terrraform -file/create-nginx-ec2-website/terraform.pem.md",
-    "Terrraform -file/create-nginx-ec2-website/output.tf.md",
-    "Pasted image 20240522005817.png",
-    "Pasted image 20240522005504.png",
-    "Pasted image 20240522005416.png",
-    "Pasted image 20240522005205.png",
-    "Pasted image 20240522005116.png",
-    "Pasted image 20240522005015.png",
-    "Pasted image 20240228124038.png",
-    "Notes/Trainings/Ansible/Playbook.md",
-    "Notes/Trainings/Ansible/loops.md",
-    "Notes/Trainings/Terraform/Essentials/7.Terraform-Loop-with-count.md",
-    "Notes/Trainings/Terraform/Essentials/5.Terraform-Seprate-ENV.md",
-    "Notes/Trainings/Ansible/Condition.md",
-    "Notes/Trainings/Ansible/templates.md",
-    "Notes/Trainings/Ansible/modulus.md",
-    "Notes/Trainings/Ansible/host_vars.md",
-    "Notes/Trainings/Ansible/group_vars.md",
-    "Notes/kafka/kafka-workflow.md",
-    "nginx",
-    "javascript",
+    "Pasted image 20240527111316.png",
+    "Pasted image 20240527105849.png",
+    "Pasted image 20240527105752.png",
+    "Pasted image 20240527010956.png",
+    "Pasted image 20240522023415.png",
+    "Pasted image 20240522023203.png",
+    "Pasted image 20240522022956.png",
+    "Notes/Trainings/Terraform/Essentials/11.Terraform Life Cycle.md",
+    "Jaeger/Deploying Jaeger on Kubernetes.md",
     "Jaeger",
-    "linux",
-    "Untitled 1",
-    "KAFKA",
-    "Notes/kafka",
-    "Notes/central-monitoring",
-    "Untitled.canvas",
-    "Notes/kubespray",
-    "Notes/Kubesphere",
+    "Notes/copy one branch to another branch.md",
+    "Untitled.md",
+    "Notes/javascript/code.md",
+    "Notes/linux/Linux-kernel.md",
+    "Notes/linux/Linux-File-System.md",
+    "Notes/linux/Create-LVM.md",
+    "Notes/linux/Create services.md",
+    "Notes/linux/Regex and  command.md",
+    "Notes/Install-Harbor.md",
+    "Notes/nginx/Untitled.md",
+    "example-files",
+    "Notes/Jaeger/Deploying Jaeger on Kubernetes.md",
+    "Notes/central-monitoring/Monitoring.md",
+    "Notes/Trainings/Terraform/Essentials/6.Terraform-outputs.md",
+    "Notes/Trainings/Terraform/Essentials/5.Terraform-Seprate-ENV.md",
+    "example-files/Terrraform -file/aws-policy",
+    "Notes/nginx",
+    "Notes/javascript",
+    "Notes/Jaeger",
+    "Notes/linux",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
