@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Terraform/Essentials/10.Terraform-RemoteState.md",
+                "file": "Notes/kafka/kafka-workflow.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Terraform/Essentials/10.Terraform-RemoteState.md",
+                "file": "Notes/kafka/kafka-workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Terraform/Essentials/10.Terraform-RemoteState.md",
+                "file": "Notes/kafka/kafka-workflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Terraform/Essentials/10.Terraform-RemoteState.md"
+                "file": "Notes/kafka/kafka-workflow.md"
               }
             }
           },
@@ -179,6 +179,9 @@
   },
   "active": "4754c61d08faf657",
   "lastOpenFiles": [
+    "Notes/Rabbitmq/Rabbitmq-Cluster-Operator.md",
+    "Notes/nginx/Untitled.md",
+    "Notes/Terraform/Essentials/10.Terraform-RemoteState.md",
     "Notes/Terraform/Essentials/8.Terraform-Loop-with-for.md",
     "Notes/Terraform/Essentials/7.Terraform-Loop-with-count.md",
     "Notes/Terraform/Essentials/1.Terraform-Essentials.md",
@@ -188,8 +191,6 @@
     "example-files/Terrraform -file/aws-policy/aws-policy.md",
     "Notes/copy one branch to another branch.md",
     "Notes/copy one branch to another branch 1.md",
-    "Notes/Rabbitmq/Rabbitmq-Cluster-Operator.md",
-    "Notes/nginx/Untitled.md",
     "Notes/nginx 1/Untitled.md",
     "Notes/linux 1/Linux-kernel.md",
     "Notes/linux 1/Regex and  command.md",
@@ -214,7 +215,6 @@
     "Notes/Terraform/Essentials/12. Terraform-Data-Source.md",
     "Notes/Terraform/Essentials/13.Terraform-count.md",
     "Notes/linux/Linux-kernel.md",
-    "Notes/linux/Linux-File-System.md",
     "Notes/nginx 1",
     "Notes/linux 1",
     "Notes/javascript 1",

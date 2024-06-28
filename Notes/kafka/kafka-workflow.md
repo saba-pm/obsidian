@@ -135,6 +135,42 @@ In addition to managing credentials for authentication, the User Operator also m
 
 ![[Pasted image 20240204143001.png]]   
 
+
+## Operator deployment best practices
+
+Installing multiple Strimzi operators in the same Kubernetes cluster, especially different versions, can lead to resource conflicts and unpredictable behavior due to their concurrent management of resources. Even with different namespaces, issues can arise because some resources like Custom Resource Definitions (CRDs) and roles have cluster-wide scope. Compatibility issues may also occur between different operator versions and Kafka clusters.
+
+To avoid these problems, it's recommended to:
+
+1. Install the Strimzi operator in a separate namespace from the Kafka cluster and its components.
+2. Use a single Strimzi operator for all Kafka instances within a cluster.
+3. Regularly update the Strimzi operator and Kafka to the latest versions.
+
+These practices ensure stable management of Kafka instances and allow you to utilize the latest features of Strimzi.
+
+
+### Deploying strimzi steps:
+
+
+1. [Deploy the Cluster Operator](https://strimzi.io/docs/operators/latest/deploying#cluster-operator-str)
+    
+2. Use the Cluster Operator to deploy the following:
+    
+    1. [Kafka cluster](https://strimzi.io/docs/operators/latest/deploying#kafka-cluster-str)
+        
+    2. [Topic Operator](https://strimzi.io/docs/operators/latest/deploying#deploying-the-topic-operator-using-the-cluster-operator-str)
+        
+    3. [User Operator](https://strimzi.io/docs/operators/latest/deploying#deploying-the-user-operator-using-the-cluster-operator-str)
+        
+    
+3. Optionally, deploy the following Kafka components according to your requirements:
+    
+    - [Kafka Connect](https://strimzi.io/docs/operators/latest/deploying#kafka-connect-str)
+        
+    - [Kafka MirrorMaker](https://strimzi.io/docs/operators/latest/deploying#kafka-mirror-maker-str)
+        
+    - [Kafka Bridge](https://strimzi.io/docs/operators/latest/deploying#kafka-bridge-str)
+
 ## Install Kafka with strimzi
 
 1. create Kafka namespace  
