@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/kafka/kafka-workflow.md",
+                "file": "example-files/Terrraform -file/dynamodb.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25fd0957d1a1290e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "example-files/Terrraform -file/dynamodb.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 300
   },
   "right": {
     "id": "551436c921cffc0a",
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/kafka/kafka-workflow.md",
+                "file": "example-files/Terrraform -file/dynamodb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/kafka/kafka-workflow.md",
+                "file": "example-files/Terrraform -file/dynamodb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/kafka/kafka-workflow.md"
+                "file": "example-files/Terrraform -file/dynamodb.md"
               }
             }
           },
@@ -177,54 +190,54 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "4754c61d08faf657",
+  "active": "25fd0957d1a1290e",
   "lastOpenFiles": [
-    "Notes/kafka/KAFKA CONFIGURATION.md",
-    "Notes/kafka/kafka-workflow.md",
-    "Notes/kafka/Pasted image 20240204143001.png",
-    "Notes/kafka/Pasted image 20240204115038.png",
+    "example-files/Terrraform -file/dynamodb.md",
+    "Notes/Trainings/Terraform/Essentials/5.Terraform-Seprate-ENV.md",
     "example-files/Terrraform -file/s3/create-s3-and-upload-files.md",
-    "Pasted image 20240628235445.png",
-    "example-files/Terrraform -file/s3",
-    "Notes/Rabbitmq/Rabbitmq-Cluster-Operator.md",
-    "Notes/nginx/Untitled.md",
-    "Notes/Terraform/Essentials/10.Terraform-RemoteState.md",
-    "Notes/Terraform/Essentials/8.Terraform-Loop-with-for.md",
-    "Notes/Terraform/Essentials/7.Terraform-Loop-with-count.md",
-    "Notes/Terraform/Essentials/1.Terraform-Essentials.md",
-    "Notes/Terraform/Essentials/3.Terraform-Modules.md",
-    "Notes/Terraform/Essentials/2.Terraform-Resources.md",
+    "example-files/Terrraform -file/create-nginx-ec2-website/workflow.md",
+    "example-files/Terrraform -file/create-nginx-ec2-website/variables.tf.md",
+    "example-files/Terrraform -file/create-nginx-ec2-website/terraform.pem.md",
+    "example-files/Terrraform -file/create-nginx-ec2-website/output.tf.md",
+    "example-files/Terrraform -file/create-nginx-ec2-website/main.tf.md",
     "example-files/Terrraform -file/create -free-tier-ec2/main.tf.md",
     "example-files/Terrraform -file/aws-policy/aws-policy.md",
-    "Notes/copy one branch to another branch.md",
-    "Notes/copy one branch to another branch 1.md",
-    "Notes/nginx 1/Untitled.md",
-    "Notes/linux 1/Linux-kernel.md",
-    "Notes/linux 1/Regex and  command.md",
+    "example-files/Terrraform -file/s3",
+    "example-files/Terrraform -file/create-nginx-ec2-website",
+    "example-files/Terrraform -file/create -free-tier-ec2",
+    "example-files/Terrraform -file/aws-policy",
+    "example-files/Terrraform -file",
+    "example-files",
+    "Pasted image 20240628235445.png",
+    "Notes/nginx/Untitled.md",
+    "Notes/nginx",
     "Notes/linux/Regex and  command.md",
-    "Notes/kubespray/Install-kubernetese.md",
-    "Notes/Jaeger/Deploying Jaeger on Kubernetes.md",
-    "Notes/Jaeger 1/Deploying Jaeger on Kubernetes.md",
-    "Notes/javascript 1/JavaScriptd.md",
-    "Notes/javascript 1/code.md",
+    "Notes/linux/Linux-kernel.md",
+    "Notes/linux/Linux-File-System.md",
+    "Notes/linux/Create-LVM.md",
+    "Notes/linux/Create services.md",
+    "Notes/linux",
     "Notes/javascript/code.md",
     "Notes/javascript/JavaScript.md",
-    "Pasted image 20240228120839.png",
-    "Pasted image 20240228124038.png",
-    "Pasted image 20240522005015.png",
-    "Pasted image 20240522005116.png",
-    "Pasted image 20240522005205.png",
-    "Pasted image 20240522005416.png",
-    "Pasted image 20240522005504.png",
-    "Notes/nginx 1",
-    "Notes/linux 1",
-    "Notes/javascript 1",
-    "Notes/Jaeger 1",
-    "example-files",
-    "example-files/Terrraform -file/aws-policy",
-    "Notes/nginx",
     "Notes/javascript",
-    "Notes/Jaeger",
+    "Notes/copy one branch to another branch.md",
+    "Notes/Terraform/Essentials/9.Terraform-Expressions-Functions.md",
+    "Notes/Terraform/Essentials/8.Terraform-Loop-with-for.md",
+    "Notes/Terraform/Essentials/7.Terraform-Loop-with-count.md",
+    "Notes/Terraform/Essentials/6.Terraform-outputs.md",
+    "Notes/Terraform/Essentials/5.Terraform-Seprate-ENV.md",
+    "Notes/Terraform/Essentials/4.Terraform-Variables.md",
+    "Notes/Terraform/Essentials/3.Terraform-Modules.md",
+    "Notes/Terraform/Essentials",
+    "Pasted image 20240624002337.png",
+    "Pasted image 20240624002253.png",
+    "Pasted image 20240624001500.png",
+    "Pasted image 20240522005817.png",
+    "Pasted image 20240522005504.png",
+    "Pasted image 20240522005416.png",
+    "Pasted image 20240522005205.png",
+    "Pasted image 20240522005116.png",
+    "Pasted image 20240522005015.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
