@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "example-files/Terrraform -file/dynamodb.md",
+                "file": "Notes/Terraform/Essentials/10.Terraform-RemoteState.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "example-files/Terrraform -file/dynamodb.md",
+                "file": "Notes/Terraform/Essentials/10.Terraform-RemoteState.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "example-files/Terrraform -file/dynamodb.md",
+                "file": "Notes/Terraform/Essentials/10.Terraform-RemoteState.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "example-files/Terrraform -file/dynamodb.md"
+                "file": "Notes/Terraform/Essentials/10.Terraform-RemoteState.md"
               }
             }
           },
@@ -192,6 +192,13 @@
   },
   "active": "25fd0957d1a1290e",
   "lastOpenFiles": [
+    "Notes/Terraform/Essentials/12. Terraform-Data-Source.md",
+    "Notes/Terraform/Essentials/9.Terraform-Expressions-Functions.md",
+    "Notes/Terraform/Essentials/11.Terraform-Life-Cycle.md",
+    "Notes/Terraform/Essentials/11.Terraform Life Cycle.md",
+    "Notes/Terraform/Essentials/13.Terraform-count.md",
+    "Notes/copy one branch to another branch.md",
+    "Notes/kafka/example.md",
     "example-files/Terrraform -file/dynamodb.md",
     "Notes/Trainings/Terraform/Essentials/5.Terraform-Seprate-ENV.md",
     "example-files/Terrraform -file/s3/create-s3-and-upload-files.md",
@@ -220,14 +227,7 @@
     "Notes/javascript/code.md",
     "Notes/javascript/JavaScript.md",
     "Notes/javascript",
-    "Notes/copy one branch to another branch.md",
-    "Notes/Terraform/Essentials/9.Terraform-Expressions-Functions.md",
     "Notes/Terraform/Essentials/8.Terraform-Loop-with-for.md",
-    "Notes/Terraform/Essentials/7.Terraform-Loop-with-count.md",
-    "Notes/Terraform/Essentials/6.Terraform-outputs.md",
-    "Notes/Terraform/Essentials/5.Terraform-Seprate-ENV.md",
-    "Notes/Terraform/Essentials/4.Terraform-Variables.md",
-    "Notes/Terraform/Essentials/3.Terraform-Modules.md",
     "Notes/Terraform/Essentials",
     "Pasted image 20240624002337.png",
     "Pasted image 20240624002253.png",
